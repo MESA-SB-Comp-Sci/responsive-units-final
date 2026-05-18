@@ -10,7 +10,7 @@ header{
 .middle-section{
   /* Add height and width here */
   background-color: lightpink;
-  display:flex;
+  /* Add flex properties here */
 }
 
 aside{
@@ -21,8 +21,7 @@ aside{
 .image-section{
   /* Add height and width here */
   background-color: aliceblue;
-  display: flex;
-  flex-direction: column;
+  /* Add flex properties here */
   text-align: left;
 }
 
